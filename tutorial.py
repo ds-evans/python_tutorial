@@ -33,8 +33,38 @@
 # age = input("Enter your age: ")
 # print("Hello " + name + "!\nYou are " + age)
 
-# Building a basic calculator
-num1 = input("Enter a number: ")
-num2 = input("Enter another number: ")
-result = float(num1) + float(num2)
-print(result)
+# # Building a basic calculator
+# num1 = input("Enter a number: ")
+# num2 = input("Enter another number: ")
+# result = float(num1) + float(num2)
+# print(result)
+
+# # Mad libs
+# color = input("Enter a color: ")
+# plural_noun = input("Enter a Plural Noun: ")
+# celebrity = input("Enter a celebrity: ")
+# print("Roses are " + color)
+# print(plural_noun + " are blue")
+# print("I love " + celebrity)
+
+# # Lists
+# friends = ["Tom", "Jim", "Max", "Cynthia", "Karen"]
+# print(friends)
+# print(friends[0])
+# print(friends[-1])
+# print(friends[1:])
+# print(friends[2:4])
+
+# List functions
+
+
+
+
+
+
+
+
+
+
+
+
