@@ -13,7 +13,20 @@ print(phrase.index("A"))
 print(phrase.replace("Python", "Snake"))
 
 # Number introduction
-my_number = 5
-print("\n" + str(my_number))
+number = 5
+print("\n" + str(number))
 print(3 * (4 + 5))
 print(10 % 3)
+print(abs(number))
+print(pow(number, 2))
+print(max(number, 25))
+print(round(3.5))
+
+# Importing
+from math import *
+print(floor(3.9))
+print(ceil(3.1))
+print(floor(sqrt(25)))
+
+# User Input
+input()
