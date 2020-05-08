@@ -112,14 +112,75 @@
 #
 # max_number(3, 20, 100)
 
+# # Dictionaries
+# monthConversions = {
+#     "Jan": "January",
+#     "Feb": "February",
+#     "Mar": "March"
+# }
+# # All keys must be unique
+# print(monthConversions["Jan"])
+# print(monthConversions.get("Fe"))
+# print(monthConversions.get("Fe", "Not valid key"))
+#
+# # While loops
+# i = 1
+# while i <= 10:
+#     print(i)
+#     i += 1
 
+# # Guessing game
+# word = "stop"
+# guess = ""
+# times = 0
+# limit = 3
+# while guess != word and times < limit:
+#     guess = input("Enter guess:")
+#     times += 1
 
+# For loop
+friends = ["Jim", "Karen", "Kevin"]
+# for friend in friends:
+#     print(friend)
+#
+# for index in range(10):
+#     print(index)
+#
+# for index in range(len(friends)):
+#     print(index)
 
+# Exponent function
+# print(2**2)
+#
+#
+# def raise_to(base, power):
+#     result = 1
+#     for index in range(power):
+#         result = result * base
+#     return result
+#
+#
+# print(raise_to(3, 3))
 
+# 2D lists and nested loops
+# number_grid = [
+#     [1, 2, 3],
+#     [4, 5, 6],
+#     [7, 8, 9],
+#     [0]
+# ]
+#
+# print(number_grid[2][1])
+#
+# for row in number_grid:
+#     for column in row:
+#         print(column)
 
-
-
-
-
+# Comments introduction
+# Single-line comment
+'''
+    This is a block comment
+'''
+# Should only use hashes
 
 
