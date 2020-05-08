@@ -55,16 +55,32 @@
 # print(friends[1:])
 # print(friends[2:4])
 
-# List functions
+# # List functions
+# numbers = [1, 2, 3]
+# friends = ["Tom", "Jim", "Max", "Cynthia", "Karen"]
+# # friends.extend(numbers)
+# friends.append("Creed")
+# friends.insert(1, "Kelly")
+# friends.remove("Jim")
+# # friends.clear()
+# friends.pop()
+# print(friends.index("Max"))
+# print(friends.count("Max"))
+# friends.sort()
+# friends2 = friends.copy()
+# friends2.reverse()
+# print(friends2)
 
+# # Tuple introduction
+# coordinates = (4, 5)
+# # Tuples are immutable
+# print(coordinates)
 
-
-
-
-
-
-
-
-
-
+# # Functions
+# def say_hi(name, age):
+#     print("Hello " + name + " you are " + age)
+#
+#
+# say_hi("Mike", "20")
+# say_hi("Steve", "40")
 
