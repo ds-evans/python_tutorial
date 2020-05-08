@@ -84,3 +84,42 @@
 # say_hi("Mike", "20")
 # say_hi("Steve", "40")
 
+# # Returns
+# def cube(num):
+#     return num * num * num
+#
+# resolve = cube(4)
+# print(resolve)
+
+# # If statements
+# is_male = True
+# is_tall = False
+# if is_male and is_tall:
+#     print("male and tall")
+# elif is_male or is_tall:
+#     print("male or tall")
+# else:
+#     print("female and not tall")
+
+# # Comparison operator
+# def max_number(num1, num2, num3):
+#     if num1 >= num2 and num1 >= num3:
+#         print(num1)
+#     elif num2 >= 1 and num2 >= num3:
+#         print(num2)
+#     else:
+#         print(num3)
+#
+# max_number(3, 20, 100)
+
+
+
+
+
+
+
+
+
+
+
+
