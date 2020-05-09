@@ -183,4 +183,28 @@ friends = ["Jim", "Karen", "Kevin"]
 '''
 # Should only use hashes
 
+# try/except
+
+# try:
+#     value = 10 / 0
+#     number = int(input("Enter a number: "))
+#     print(number)
+# except ZeroDivisionError as err:
+#     print(err)
+# except ValueError:
+#     print("invalid input")
+
+# # Reading files
+# # a_file = open("test.txt", "x")
+# # a_file = open("test.txt", "w")
+# # a_file.write("John\nTim\nDave")
+# # a_file.close()
+# a_file = open("test.txt", "r")
+# # print(a_file.readable())
+# # print(a_file.read())
+# # print(a_file.readline())
+# # print(a_file.readlines()[2])
+# for name in a_file.readlines():
+#     print(name)
+# a_file.close()
 
