@@ -208,3 +208,17 @@ friends = ["Jim", "Karen", "Kevin"]
 #     print(name)
 # a_file.close()
 
+# modules and pip
+# use import to pull in other files
+# built-in and external modules
+# import a python module using pip
+# pip is a package manager
+# import docx
+
+# classes and objects
+# from student import Student
+#
+# student1 = Student("Tom", "Business", 3.1, False)
+#
+# print(student1.name)
+
