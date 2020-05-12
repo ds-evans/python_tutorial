@@ -216,9 +216,9 @@ friends = ["Jim", "Karen", "Kevin"]
 # import docx
 
 # classes and objects
-# from student import Student
-#
-# student1 = Student("Tom", "Business", 3.1, False)
-#
-# print(student1.name)
+from student import Student
 
+student1 = Student("Tom", "Business", 3.1, False)
+
+print(student1.name)
+print(student1.on_honor_roll())
